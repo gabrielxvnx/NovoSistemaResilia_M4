@@ -1,6 +1,9 @@
 # NovoSistemaResilia_M4
 
 
+![diagrama](diagramaM4.png)
+
+
 ## Existem outras entidades além dessas três?
 
 ```sh
