@@ -1,8 +1,6 @@
 # NovoSistemaResilia_M4
 
-<p align="center">
  ![diagrama](diagramaM4.png)
-</p>
 
 
 
