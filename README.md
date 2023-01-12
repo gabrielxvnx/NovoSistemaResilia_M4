@@ -4,17 +4,17 @@
 ## Existem outras entidades além dessas três?
 
 ```sh
-Sim, LOCAIS e MATRICULAS
+Sim, Foi inserida a entidade Instrutores.
 ```
 
 ## Quais são os principais campos e tipos?
 
 ```sh
-Os principais campos são o ID de cada entidade. 
+Os principais campos de cada entidade são: ID que utiliza o tipo SMALLINT e nome que utiliza VARCHAR(100)  
 ```
 
 ## Como essas entidades estão relacionadas?
 
 ```sh
-Dentro da minha estrategia, existem conjunto de relacionamentos binários.
+a
 ```
