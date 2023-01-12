@@ -1,7 +1,9 @@
 # NovoSistemaResilia_M4
 
+<p align="center">
+ ![diagrama](diagramaM4.png)
+</p>
 
-![diagrama](diagramaM4.png)
 
 
 ## Existem outras entidades além dessas três?
