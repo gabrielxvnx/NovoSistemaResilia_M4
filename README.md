@@ -19,5 +19,8 @@ Os principais campos de cada entidade são: ID que utiliza o tipo INT e nome que
 ## Como essas entidades estão relacionadas?
 
 ```sh
-a
+A relação da entidade Instrutores para turmas esta Muitos x Muitos.
+A relação da entidade Alunos para Instrutores esta Muitos x Muitos.
+A relação da entidade Turmas para Cursos esta Muitos x 1(Um).
+A relação da entidade Alunos para Turmas esta Muitos x Muitos.
 ```
